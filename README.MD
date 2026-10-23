@@ -1,4 +1,22 @@
-root![](docs/images/logo.png)
+App: Shizuku-Next 14.0.27-next (1888)
+Android: 15 (SDK 35)
+Device: samsung SM-G998W
+Service: Running
+Server uid: 2000 (shell)
+Server API: 13.6
+Server context: u:r:shell:s0
+Started with: Wireless
+Transport: adb
+Default method: Wireless
+WRITE_SECURE_SETTINGS: granted
+Wireless debugging: مفعَّل
+ADB port: 5555
+Wi-Fi: connected
+Local network: not required
+Battery optimization: unrestricted
+Hiding: غير مفعَّل
+Process killer: غير مفعَّل
+Root: unavailableroot![](docs/images/logo.png)
 
 [![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=totalString&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftopjohnwu%2Fmagisk-files%2Fcount%2Fcount.json&cacheSeconds=1800)](https://raw.githubusercontent.com/topjohnwu/magisk-files/count/count.json)
 
