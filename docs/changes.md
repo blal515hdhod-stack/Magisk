@@ -2,7 +2,25 @@
 
 ### v31.0 (2026.9.4)
 
-- [App] Complete UI overhaul with Jetpack Compose and Material 3, completely removing the legacy View and Fragment architecture
+- [App] App: Shizuku-Next 14.0.27-next (1888)
+Android: 15 (SDK 35)
+Device: samsung SM-G998W
+Service: Running
+Server uid: 2000 (shell)
+Server API: 13.6
+Server context: u:r:shell:s0
+Started with: Wireless
+Transport: adb
+Default method: Wireless
+WRITE_SECURE_SETTINGS: granted
+Wireless debugging: مفعَّل
+ADB port: 5555
+Wi-Fi: connected
+Local network: not required
+Battery optimization: unrestricted
+Hiding: 
+Process killer: 
+Root: unavailable UI overhaul with Jetpack Compose and Material 3, completely removing the legacy View and Fragment architecture
 - [App] Add new built-in terminal emulator with full TTY and ANSI support for module flashing and action scripts
 - [App] Support downloading and streaming boot image extraction directly from remote OTA URLs
 - [MagiskBoot] Support dynamic zImage payload sizes without requiring exact size padding during repack
